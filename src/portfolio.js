@@ -241,7 +241,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/set-tra-sua-phuc-long-1.jpg"),
+      image: require("./assets/images/phuc-long.jpg"),
       projectName: "Phúc Long Coffee Management",
       projectDesc: "",
       footerLink: [
